@@ -1,6 +1,6 @@
 # Uçak Bilet Rezervasyon Sistemi (Java Console App)
 
-Bu proje, Java ile nesneye dayalı programlama (OOP) prensipleri kullanılarak geliştirilmiş bir uçak bilet rezervasyon sistemidir.
+
 
 ## Özellikler
 
@@ -11,9 +11,6 @@ Bu proje, Java ile nesneye dayalı programlama (OOP) prensipleri kullanılarak g
 
 ## Kullanım
 
-1. GSON kütüphanesini `libs/` klasörüne ekleyin (örn: `gson-2.8.6.jar`)
+1. GSON kütüphanesini `libs/` klasörüne ekleyin 
 2. Projeyi derleyin ve çalıştırın:
 
-```bash
-javac -cp "libs/gson-2.8.6.jar" -d out src/**/*.java
-java -cp "libs/gson-2.8.6.jar:out" app.Main
